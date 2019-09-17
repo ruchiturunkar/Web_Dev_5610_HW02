@@ -1,0 +1,32 @@
+// CSS Styling referred from w3schools CSS tutorials
+
+div {
+  background-color: darkgrey;
+  width: 235px;
+  height: 340px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 15px;
+}
+
+button {
+
+  background-color: black;
+  color : white;
+  width: 55px;
+  height: 55px;
+  border: 2px solid black;
+  border-radius: 7.5px;  
+  font-size: 25px;
+
+}
+
+input {
+  
+  width: 230px;
+  height: 40px;
+  border: 2px solid black;
+  text-align: right;
+  font-weight: bold;
+  font-size: 20px;
+}
